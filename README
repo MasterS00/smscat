@@ -11,13 +11,10 @@ ATENÇÃO você só pode enviar uma mensagem a cada 24 horas.
 Con esta herramienta puedes enviar mensajes anónimos a cualquier número de teléfono, 
 solo recuerda que no me hago responsable por su mal uso. ATENCIÓN, solo puedes enviar un mensaje cada 24 horas.
 ---------------------
-Commands Debian
-sudo python3 install.py
----------------------
 Commands for termux
 bash install.sh
 python3 setup.py
-
+--------------------
 Commands for Debian
 sudo bash install.sh
 sudo python3 setup.py
