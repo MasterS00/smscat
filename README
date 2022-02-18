@@ -1,0 +1,23 @@
+SmsCat
+---------------------
+With this tool you can send anonymous messages to any phone number, 
+just remember that I am not responsible for its improper use. ATTENTION 
+you can only send a message every 24 hours.
+----------------------
+Com esta ferramenta você pode enviar mensagens anônimas para qualquer número de telefone, 
+apenas lembre-se que não me responsabilizo pelo seu uso indevido. 
+ATENÇÃO você só pode enviar uma mensagem a cada 24 horas.
+---------------------
+Con esta herramienta puedes enviar mensajes anónimos a cualquier número de teléfono, 
+solo recuerda que no me hago responsable por su mal uso. ATENCIÓN, solo puedes enviar un mensaje cada 24 horas.
+---------------------
+Commands Debian
+sudo python3 install.py
+---------------------
+Commands for termux
+bash install.sh
+python3 setup.py
+
+Commands for Debian
+sudo bash install.sh
+sudo python3 setup.py
